@@ -1,0 +1,15 @@
+C:\allFiles\projects\bfgf\HomeWorks\bin\Debug\net6.0\HomeWorks.exe
+C:\allFiles\projects\bfgf\HomeWorks\bin\Debug\net6.0\HomeWorks.deps.json
+C:\allFiles\projects\bfgf\HomeWorks\bin\Debug\net6.0\HomeWorks.runtimeconfig.json
+C:\allFiles\projects\bfgf\HomeWorks\bin\Debug\net6.0\HomeWorks.dll
+C:\allFiles\projects\bfgf\HomeWorks\bin\Debug\net6.0\HomeWorks.pdb
+C:\allFiles\projects\bfgf\HomeWorks\obj\Debug\net6.0\HomeWorks.csproj.AssemblyReference.cache
+C:\allFiles\projects\bfgf\HomeWorks\obj\Debug\net6.0\HomeWorks.GeneratedMSBuildEditorConfig.editorconfig
+C:\allFiles\projects\bfgf\HomeWorks\obj\Debug\net6.0\HomeWorks.AssemblyInfoInputs.cache
+C:\allFiles\projects\bfgf\HomeWorks\obj\Debug\net6.0\HomeWorks.AssemblyInfo.cs
+C:\allFiles\projects\bfgf\HomeWorks\obj\Debug\net6.0\HomeWorks.csproj.CoreCompileInputs.cache
+C:\allFiles\projects\bfgf\HomeWorks\obj\Debug\net6.0\HomeWorks.dll
+C:\allFiles\projects\bfgf\HomeWorks\obj\Debug\net6.0\refint\HomeWorks.dll
+C:\allFiles\projects\bfgf\HomeWorks\obj\Debug\net6.0\HomeWorks.pdb
+C:\allFiles\projects\bfgf\HomeWorks\obj\Debug\net6.0\HomeWorks.genruntimeconfig.cache
+C:\allFiles\projects\bfgf\HomeWorks\obj\Debug\net6.0\ref\HomeWorks.dll
