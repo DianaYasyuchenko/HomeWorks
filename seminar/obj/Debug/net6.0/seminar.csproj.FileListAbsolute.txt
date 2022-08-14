@@ -1,0 +1,15 @@
+C:\allFiles\projects\bfgf\HomeWorks\seminar\bin\Debug\net6.0\seminar.exe
+C:\allFiles\projects\bfgf\HomeWorks\seminar\bin\Debug\net6.0\seminar.deps.json
+C:\allFiles\projects\bfgf\HomeWorks\seminar\bin\Debug\net6.0\seminar.runtimeconfig.json
+C:\allFiles\projects\bfgf\HomeWorks\seminar\bin\Debug\net6.0\seminar.dll
+C:\allFiles\projects\bfgf\HomeWorks\seminar\bin\Debug\net6.0\seminar.pdb
+C:\allFiles\projects\bfgf\HomeWorks\seminar\obj\Debug\net6.0\seminar.csproj.AssemblyReference.cache
+C:\allFiles\projects\bfgf\HomeWorks\seminar\obj\Debug\net6.0\seminar.GeneratedMSBuildEditorConfig.editorconfig
+C:\allFiles\projects\bfgf\HomeWorks\seminar\obj\Debug\net6.0\seminar.AssemblyInfoInputs.cache
+C:\allFiles\projects\bfgf\HomeWorks\seminar\obj\Debug\net6.0\seminar.AssemblyInfo.cs
+C:\allFiles\projects\bfgf\HomeWorks\seminar\obj\Debug\net6.0\seminar.csproj.CoreCompileInputs.cache
+C:\allFiles\projects\bfgf\HomeWorks\seminar\obj\Debug\net6.0\seminar.dll
+C:\allFiles\projects\bfgf\HomeWorks\seminar\obj\Debug\net6.0\refint\seminar.dll
+C:\allFiles\projects\bfgf\HomeWorks\seminar\obj\Debug\net6.0\seminar.pdb
+C:\allFiles\projects\bfgf\HomeWorks\seminar\obj\Debug\net6.0\seminar.genruntimeconfig.cache
+C:\allFiles\projects\bfgf\HomeWorks\seminar\obj\Debug\net6.0\ref\seminar.dll
