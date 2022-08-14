@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\allFiles\\projects\\bfgf\\HomeWorks\\HomeWorks.csproj": {}
+    "C:\\allFiles\\projects\\bfgf\\HomeWorks\\seminar2\\seminar2.csproj": {}
   },
   "projects": {
-    "C:\\allFiles\\projects\\bfgf\\HomeWorks\\HomeWorks.csproj": {
+    "C:\\allFiles\\projects\\bfgf\\HomeWorks\\seminar2\\seminar2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\allFiles\\projects\\bfgf\\HomeWorks\\HomeWorks.csproj",
-        "projectName": "HomeWorks",
-        "projectPath": "C:\\allFiles\\projects\\bfgf\\HomeWorks\\HomeWorks.csproj",
+        "projectUniqueName": "C:\\allFiles\\projects\\bfgf\\HomeWorks\\seminar2\\seminar2.csproj",
+        "projectName": "seminar2",
+        "projectPath": "C:\\allFiles\\projects\\bfgf\\HomeWorks\\seminar2\\seminar2.csproj",
         "packagesPath": "C:\\Users\\John Doe\\.nuget\\packages\\",
-        "outputPath": "C:\\allFiles\\projects\\bfgf\\HomeWorks\\obj\\",
+        "outputPath": "C:\\allFiles\\projects\\bfgf\\HomeWorks\\seminar2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\John Doe\\AppData\\Roaming\\NuGet\\NuGet.Config"
